@@ -1,0 +1,6 @@
+[68]: [Sent: Enter command:
+Who/FileName.txt/Break
+ at: 2022-07-15.16:32:03]
+[37]: [Recieved: Who at: 2022-07-15.16:32:39]
+[50]: [Sent: K-24 Nikitina Sophie at: 2022-07-15.16:32:39]
+[54]: [Recieved: 様様様様様様様様様様 at: 2022-07-15.16:32:49]
